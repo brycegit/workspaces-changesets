@@ -1,5 +1,13 @@
 # @bdtest/b
 
+## 6.0.0
+
+### Major Changes
+
+tesss
+testing here
+test
+
 ## 5.0.0
 
 ### Major Changes
