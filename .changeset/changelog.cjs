@@ -12,12 +12,12 @@ async function getReleaseLine(changeset, type, changelogOpts) {
   });
 }
 
-function getDependencyReleaseLine(changeset, type, changelogOpts) {
-  const changeData = type[0];
+function getDependencyReleaseLine(changeset, typeList, changelogOpts) {
+  const changeText = typeList.map((type) =>
+    type ? `- Updating ${type.name} to version ${type.newVersion}` : ""
+  );
 
-  return changeData
-    ? `- Updating ${changeData.name} to version ${changeData.newVersion}`
-    : "";
+  return changeText;
 }
 
 const defaultChangelogFunctions = {
