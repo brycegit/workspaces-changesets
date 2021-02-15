@@ -1,5 +1,13 @@
 # @bdtest/b
 
+## 10.0.0
+
+### Major Changes
+
+- KENG-123 - maj b
+
+### Patch Changes
+
 ## 9.2.0
 
 ### Minor Changes

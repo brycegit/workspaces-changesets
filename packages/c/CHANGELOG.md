@@ -1,5 +1,13 @@
 # @bdtest/c
 
+## 3.1.0
+
+### Minor Changes
+
+- KENG-123 - min c
+
+### Patch Changes
+
 ## 3.0.0
 
 ### Major Changes

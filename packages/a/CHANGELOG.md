@@ -1,5 +1,11 @@
 # @bdtest/a
 
+## 1.0.9
+
+### Patch Changes
+
+- Updating @bdtest/b to version 10.0.0,- Updating @bdtest/c to version 3.1.0
+
 ## 1.0.8
 
 ### Patch Changes
