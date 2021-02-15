@@ -15,6 +15,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@changesets/changelog-git": "^0.1.6",
     "@changesets/cli": "^2.14.1"
   }
 }
