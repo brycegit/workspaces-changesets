@@ -1,3 +1,3 @@
 export default function () {
-  console.log("B 3");
+  console.log("B MAJOR");
 }
