@@ -17,7 +17,7 @@ function getDependencyReleaseLine(changeset, typeList, changelogOpts) {
     type ? `- Updating ${type.name} to version ${type.newVersion}` : ""
   );
 
-  return changeText.join("/n");
+  return changeText.join("\n");
 }
 
 const defaultChangelogFunctions = {
