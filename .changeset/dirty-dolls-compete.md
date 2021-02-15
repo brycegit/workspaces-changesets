@@ -1,5 +1,0 @@
----
-"@bdtest/b": major
----
-
-goo

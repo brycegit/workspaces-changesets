@@ -1,5 +1,12 @@
 # @bdtest/b
 
+## 5.0.0
+
+### Major Changes
+
+- 7e12543: goo
+- test23
+
 ## 4.0.0
 
 ### Major Changes
