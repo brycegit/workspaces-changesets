@@ -7,7 +7,7 @@ async function getReleaseLine(changeset, type, changelogOpts) {
         ? stdout.match(/^KENG-\d*/)[0]
         : "" + " ";
 
-      res(`${ticket}${changeset.summary}`);
+      res(`${ticket} - ${changeset.summary}`);
     });
   });
 }
