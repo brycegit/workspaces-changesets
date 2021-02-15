@@ -1,5 +1,11 @@
 # @bdtest/b
 
+## 8.0.0
+
+### Major Changes
+
+KENG-123 - t
+
 ## 7.0.0
 
 ### Major Changes
