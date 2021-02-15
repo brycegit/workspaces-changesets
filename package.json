@@ -1,0 +1,20 @@
+{
+  "name": "@bdtest/main",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cs": "changeset"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@changesets/cli": "^2.14.1"
+  }
+}
