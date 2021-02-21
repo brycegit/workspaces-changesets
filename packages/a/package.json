@@ -1,6 +1,6 @@
 {
   "name": "@bdtest/a",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@bdtest/b": "^13.0.0",
+    "@bdtest/b": "^14.0.0",
     "@bdtest/c": "^3.3.0"
   }
 }
